@@ -1,0 +1,1 @@
+print('aldo ganteng')
